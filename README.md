@@ -10,3 +10,4 @@ Task: ***https://github.com/rolling-scopes-school/tasks/blob/master/tasks/markup
 Layout: ***https://raw.githubusercontent.com/rolling-scopes-school/tasks/master/tasks/markups/level-1/webdev/webdev-latest-version.jpg***
 
 Score: 99 / 100
+
